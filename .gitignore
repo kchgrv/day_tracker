@@ -1,0 +1,8 @@
+# AI tooling / local files
+~ai/
+
+# OS / editors
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
